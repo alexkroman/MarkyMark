@@ -27,13 +27,12 @@ body {
   margin: 0;
   padding: 0;
   font-size: 1em;
-  width: 47em;
+  width: 90%;
   margin: auto;
 }
 div, h1, h2, h3, h4, h5, h6 { text-align: left; }
 div.wrapper {
   font-size: 1em;
-  max-width: 47em;
   min-width: 580px;
   margin: auto;
 }
