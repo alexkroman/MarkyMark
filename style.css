@@ -4,14 +4,9 @@ a:hover {
   color: #ffffff;
   background: #222222;
 }
-
 pre {
   border: #777777 1px solid;
   background-color: #cccccc;
-}
-pre .poetry {
-  border: none;
-  background: none;
 }
 img {
   border: #777777 1px solid;
@@ -27,14 +22,12 @@ body {
   margin: 0;
   padding: 0;
   font-size: 1em;
-  width: 980px
   margin: auto;
 }
 div, h1, h2, h3, h4, h5, h6 { text-align: left; }
 div.wrapper {
   font-size: 1em;
-  max-width: 961px;
-  min-width: 580px;
+  width: 961px;
   margin: auto;
 }
 pre { padding: 0.5em; }
@@ -48,7 +41,6 @@ p {
   line-height: 1.5em;
   text-align: justify;
   margin: 1.5em 0 1.5em 0;
-  max-width: 35em;
 }
 li p { margin: 1em 0 1em 0; }
 h1, h2, h3, h4 {
@@ -117,7 +109,6 @@ a {
   padding: 0.5em;
   margin-left: 1em;
   margin-right: 2em;
-  max-width: 32em;
 }
 .content pre { padding: 0.5em; }
 .content hr {
